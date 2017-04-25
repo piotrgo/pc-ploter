@@ -1,1 +1,1 @@
-# pl-ploter
+# pc-ploter
